@@ -1,0 +1,3 @@
+# Este é um teste de vazamento de segredo
+
+MINHA_CHAVE_SECRETA = "ghp_aBcDeFgHiJkLmNoPqRsTuVwXyZ1234567890"
